@@ -25,7 +25,8 @@
 - The Code was not entirely accurate but was semantically similar to pyspark code.
 - Hallucinations were seen probably due to the smaller sized dataset
 
-![image](https://github.com/user-attachments/assets/54765221-21c3-474e-aca7-b3e53202aa52)
+![image](https://github.com/user-attachments/assets/5d9b373f-2d2f-44d3-9fbf-aed585d1e099)
+
 
 
 ### ETL Pipeline UI
