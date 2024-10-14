@@ -25,7 +25,8 @@
 - The Code was not entirely accurate but was semantically similar to pyspark code.
 - Hallucinations were seen probably due to the smaller sized dataset
 
-![image](https://github.com/user-attachments/assets/4a5538ac-e827-48c4-8af8-a9726fb437ee)
+![image](https://github.com/user-attachments/assets/54765221-21c3-474e-aca7-b3e53202aa52)
+
 
 ### ETL Pipeline UI
 - A GUI was built using Streamlit to demonstrate how the model will be used to create ETL pipelines
