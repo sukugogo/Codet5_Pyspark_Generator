@@ -34,5 +34,3 @@
 - The main UI page allows users to add components and associate these components and the ETL flow is displayed in the GRAPH VIEW section
 ![image](https://github.com/user-attachments/assets/6527ad10-e646-45ef-be63-6be1d692300b)
 - In the COLUMN MAPPER section, for a dataset, users can provide the mapping rules in the form of text prompts and the AI model will generate the corresponding code in the CODE VIEW section
-![image](https://github.com/user-attachments/assets/4f9f27d4-be9a-4146-9876-235193284892)
-
